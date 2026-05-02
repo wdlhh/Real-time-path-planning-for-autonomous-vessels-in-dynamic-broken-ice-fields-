@@ -375,7 +375,7 @@ If you use IceNav in your research or competition project, please consider citin
 ```bibtex
 @misc{icenav2026,
   title  = {IceNav: Dynamic Path Planning for Complex Sea States},
-  author = {Your Name},
+  author = {Andy},
   year   = {2026},
   url    = {https://github.com/yourusername/IceNav}
 }
